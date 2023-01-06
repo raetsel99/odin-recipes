@@ -1,0 +1,16 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+  width: 750px;
+  height: auto;
+}
+
+ul li {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+ol li {
+  text-align: justify;
+}
